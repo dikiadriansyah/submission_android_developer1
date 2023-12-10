@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="nama_tempat">Nama Tempat</string>
+    <string name="ringkasan_tempat">Ringkasan Tempat</string>
+
+<!--    batas detail list-->
+    <string name="txt_judul_wisata">judul wisata</string>
+    <string name="txt_img_wisata">Image wisata</string>
+ <string name="label_detail_wiata">Ringkasan Wisata</string>
+    <string name="txt_content_detail_wisata">Kalimat content detail wisata</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="txt_deskripsi">Kalimat Deskripsi</string>
+    <string name="wisata_rate">Nilai Wisata</string>
+    <string name="kecamatan">Kecamatan: </string>
+    <string name="tahun_resmi">Dibangun Tahun: </string>
+
+<!--    -->
+    <!--- batas akun-->
+    <string name="hubungi">Hubungi</string>
+    <string name="nama_lengkap">Diki</string>
+    <string name="email">adrdiki67@gmail.com</string>
+    <string name="ikon_menu_orang">Ikon Orang</string>
+    <string name="label_dicoding">Dicoding</string>
+    <string name="txt_akun_dicoding">https://www.dicoding.com/users/diki_8xl2</string>
+</resources>
